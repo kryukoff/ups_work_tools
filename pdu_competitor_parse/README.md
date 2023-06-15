@@ -1,2 +1,3 @@
-tool to parse different PDU lines and save them by series into Excel files for further competitior analysis work
-links to pages with list of all the pdu in each series shoud be provided manually
+tool to parse different PDU lines and save them by series into Excel files for further competitor analysis work
+
+links to pages with the list of all the PDU in each series should be provided manually
